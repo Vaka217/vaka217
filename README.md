@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Cabaleiro</h1>
-<h3 align="center">A passionate developer from Uruguay, specialized in frontend development</h3>
+<h3 align="center">A passionate developer from Uruguay, specialized in frontend development and machine learning</h3>
 
 <p align="center">
   <img src="https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg" alt="animated" height="400px" />
 </p>
 
-<p align="center">🔭 I’m currently working on <b>Market of Many Cards</b></p>
-
-<p align="center">🌱 I’m currently learning <b>TypeScript and Next.js</b></p>
+<p align="center">🌱 I’m currently learning <b>Neural Style Transfer</b></p>
 
 <p align="center">⚡ Fun fact <b>I am an expert in all kind of TTRPGs</b></p>
 
